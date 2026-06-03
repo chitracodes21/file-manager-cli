@@ -38,7 +38,7 @@ npm install
 ## ▶️ Run the Project
 
 ```bash
-node index.js
+node app.js
 ```
 
 ---
